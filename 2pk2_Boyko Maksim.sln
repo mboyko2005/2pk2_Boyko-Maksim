@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2pk2_Boyko Maksim", "2pk2_Boyko Maksim\2pk2_Boyko Maksim.csproj", "{E02D9BD1-3AE1-4230-B893-E1732E28B2C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz_6", "pz_6\pz_6.csproj", "{11C117B6-F006-4EFB-B558-BB2338963262}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pz_6", "pz_6\pz_6.csproj", "{11C117B6-F006-4EFB-B558-BB2338963262}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ_11", "PZ_11\PZ_11.csproj", "{7637C403-77DE-4833-9CFD-AB79A88209F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{11C117B6-F006-4EFB-B558-BB2338963262}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11C117B6-F006-4EFB-B558-BB2338963262}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11C117B6-F006-4EFB-B558-BB2338963262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7637C403-77DE-4833-9CFD-AB79A88209F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7637C403-77DE-4833-9CFD-AB79A88209F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7637C403-77DE-4833-9CFD-AB79A88209F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7637C403-77DE-4833-9CFD-AB79A88209F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
