@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static string array(params string[] m)
+        static string array(string[] m)
         {
             int a = m.Length;
             string max = m[1];
