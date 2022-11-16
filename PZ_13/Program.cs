@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static string array(string[] m)
+        static string array(params string[] m)
         {
             int a = m.Length;
             string max = m[1];
@@ -18,10 +18,10 @@
         {
             Console.WriteLine("Введите количество строк");
             int b = int.Parse(Console.ReadLine());
-            string[] B = new string[m];
-            for (int i = 0; i < m; i++)
+            string[] B = new string[b];
+            for (int i = 0; i < b; i++)
             {
-                m[i] = Console.ReadLine();
+                B[i] = Console.ReadLine();
             }
 
             Console.WriteLine($"Самая больша строка " + array(B) );
