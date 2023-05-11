@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PZ_22
+namespace PZ_23
 {
     class Package
     {
