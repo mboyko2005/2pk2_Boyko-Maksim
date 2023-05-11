@@ -1,6 +1,7 @@
-﻿using System;
+﻿using PZ_24;
+using System;
 
-namespace PZ_23
+namespace PZ_24
 {
 	class UndeliveredPackage : Package
 	{
